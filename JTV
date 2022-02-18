@@ -11,7 +11,7 @@ http://tv.thepremiummedia.com:8080/toni1/1toni/2165
 #EXTINF:-1 tvg-logo="", Latina|HD
 http://tv.thepremiummedia.com:8080/toni1/1toni/56273
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg", América 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/768px-Am%C3%A9rica_Televisi%C3%B3n.svg.png", América 
 http://tv.thepremiummedia.com:8080/toni1/1toni/1068850
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Am%C3%A9rica_HD.svg/1200px-Am%C3%A9rica_HD.svg.png", América|HD
