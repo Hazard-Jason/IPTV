@@ -1,15 +1,62 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Latina_TV_2014.svg/revision/latest/scale-to-width-down/203?cb= 20210524134212", Latina
-https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
+#EXTINF:-1 tvg-logo="", 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0ZmW9mZ/1636989779860.png", Latina HD
-https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8?&
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Am%C3%A9rica_Televisi%C3%B3n_logo_2016.png" ,América
-https://vsd114.mycdn.me/hls/1774626409031.m3u8/sig/YZOEvyoV1oE/expires/1637021930997/srcIp/132.184.128.3/clientType/1/srcAg/CHROME_ANDROID/mid/4762197827143.3uindex/407high
+#EXTINF:-1 tvg-logo="", 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Logo_icono_Am%C3%A9rica_2003.png/revision/latest/scale-to-width-down/ 2000?cb=20200201125738&path-prefix=es" ,América HD
-http://iptvcanales.gq/canales/tvfree/206/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3% BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" ,TV Perú
-https://cdnh77.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 tvg-logo="", 
+
+
+#EXTINF:-1 tvg-logo="", 
+
+
+#EXTINF:-1 tvg-logo="", 
+
+
+#EXTINF:-1 tvg-logo="", 
+
+
+#EXTINF:-1 tvg-logo="", 
+#EXTINF:-1 tvg-logo="", 
+
+
+#EXTINF:-1 tvg-logo="", 
+
+
+#EXTINF:-1 tvg-logo="", 
+
+
+#EXTINF:-1 tvg-logo="", 
+
+
+#EXTINF:-1 tvg-logo="", 
+
+
+#EXTINF:-1 tvg-logo="", 
+
+
+#EXTINF:-1 tvg-logo="", 
+
+
+#EXTINF:-1 tvg-logo="", 
+
+
+#EXTINF:-1 tvg-logo="", 
+
+
+#EXTINF:-1 tvg-logo="", 
+
+
+#EXTINF:-1 tvg-logo="", 
+
+
+#EXTINF:-1 tvg-logo="", 
+
+
+#EXTINF:-1 tvg-logo="", 
+
+
+#EXTINF:-1 tvg-logo="", 
+
+
