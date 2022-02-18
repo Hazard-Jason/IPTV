@@ -5,19 +5,21 @@ http://tv.thepremiummedia.com:8080/toni1/1toni/8333
 #EXTINF:-1 tvg-logo="", Latina 
 http://tv.thepremiummedia.com:8080/toni1/1toni/2165
 
-#EXTINF:-1 tvg-logo="", Latina HD
+#EXTINF:-1 tvg-logo="", Latina|HD
 http://tv.thepremiummedia.com:8080/toni1/1toni/56273
 
+#EXTINF:-1 tvg-logo="", América 
+http://tv.thepremiummedia.com:8080/toni1/1toni/1068850
+
+#EXTINF:-1 tvg-logo="", América|HD
+http://tv.thepremiummedia.com:8080/toni1/1toni/2174
+
+#EXTINF:-1 tvg-logo="", 
+
+
 #EXTINF:-1 tvg-logo="", 
 
 
-#EXTINF:-1 tvg-logo="", 
-
-
-#EXTINF:-1 tvg-logo="", 
-
-
-#EXTINF:-1 tvg-logo="", 
 #EXTINF:-1 tvg-logo="", 
 
 
