@@ -3,6 +3,7 @@
 https://d2tr4gdfol9ja.cloudfront.net:443/atv/smil:atv.smil/chunklist_b1024000.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/ATV_HD_2018.svg/revision/latest?cb=20210519153521&path-prefix=es", ATV|HD
+http://tv.thepremiummedia.com:8080/toni1/1toni/8333
 
 #EXTINF:-1 tvg-logo="", Latina 
 http://tv.thepremiummedia.com:8080/toni1/1toni/2165
