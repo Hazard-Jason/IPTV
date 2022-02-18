@@ -17,11 +17,11 @@ http://tv.thepremiummedia.com:8080/toni1/1toni/2174
 #EXTINF:-1 tvg-logo="", Panamericana 
 http://tv.thepremiummedia.com:8080/toni1/1toni/2171
 
-#EXTINF:-1 tvg-logo="", 
+#EXTINF:-1 tvg-logo="", CartoonNetwork 
+http://tv.thepremiummedia.com:8080/toni1/1toni/3249
 
-
-#EXTINF:-1 tvg-logo="", 
-
+#EXTINF:-1 tvg-logo="", CartoonNetwork|HD
+http://tv.thepremiummedia.com:8080/toni1/1toni/4063
 
 #EXTINF:-1 tvg-logo="", 
 
