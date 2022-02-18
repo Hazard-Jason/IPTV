@@ -20,10 +20,10 @@ http://tv.thepremiummedia.com:8080/toni1/1toni/2174
 #EXTINF:-1 tvg-logo="", Panamericana 
 http://tv.thepremiummedia.com:8080/toni1/1toni/2171
 
-#EXTINF:-1 tvg-logo="", CartoonNetwork 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest?cb=20210820025220&path-prefix=es", CartoonNetwork 
 http://tv.thepremiummedia.com:8080/toni1/1toni/3249
 
-#EXTINF:-1 tvg-logo="", CartoonNetwork|HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/1200px-Cartoon_Network_HD_logo.svg.png", CartoonNetwork|HD
 http://tv.thepremiummedia.com:8080/toni1/1toni/4063
 
 #EXTINF:-1 tvg-logo="", Estudio 92|Radio
