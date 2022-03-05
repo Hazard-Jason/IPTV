@@ -29,8 +29,8 @@ http://tv.thepremiummedia.com:8080/toni1/1toni/3249
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/1200px-Cartoon_Network_HD_logo.svg.png", CartoonNetwork|HD
 http://tv.thepremiummedia.com:8080/toni1/1toni/4063
 
-#EXTINF:-1 tvg-logo="", Estudio 92|Radio
-https://mdstrm.com/audio/5fada553978fe1080e3ac5ea/live.m3u8?_=1645164270175&dnt=true&uid=7UwKm4vYoEiONOZGHrwo2wjZ7kPgf3VJ&sid=qlhtCq07okhN1B0g2xHSU5OXV5re8QSI&pid=AvUu52UnlZMRlgSTJjOma0rYBhpns3JZ&an=audioplayer_web&at=web-app&av=v0.0.183&sc=0&ref=audioplayer.pe&res=424x918
+#EXTINF:-1 tvg-logo="https://cdn.oldskull.net/wp-content/uploads/2019/08/6-gifs-animados-dvdp-oldskull-.gif", Estudio 92|Radio
+https://mdstrm.com/audio/5fada553978fe1080e3ac5ea/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png", Tv Perú 
 https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
